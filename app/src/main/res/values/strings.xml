@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Formulario com ViewModel</string>
+    <string name="padrao_nome">Nome:</string>
+    <string name="padrao_cadastro">Preencha as informações!</string>
+    <string name="padrao_idade">Idade:</string>
+    <string name="padrao_altura">Altura:</string>
+    <string name="cadastroFinalizado">Dados de cadastro</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="nome">Nome: %s</string>
+    <string name="idade">Idade: %s</string>
+    <string name="altura">Altura: %s</string>
+</resources>
